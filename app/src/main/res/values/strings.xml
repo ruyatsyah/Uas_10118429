@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">10118429_UAS</string>
+    <string name="fav">
+    Anda dapat melihat lokasi wisata favorit di bandung yang saya rekomdasikan
+    </string>
+   <string name="loc">
+       Melihat Peta lokasi agar tidak tersesat dan anda juga dapat memperkirakan waktu sampai ke tujuan
+   </string>
+    <string name="searcloc">
+        Mencari tempat wisata baru di wilayah bandung
+    </string>
+    <string name="about">
+        Aplikasi ini berisi tentang wisata yang berada di wilayah bandung
+    </string>
+</resources>
